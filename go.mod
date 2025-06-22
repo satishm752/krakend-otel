@@ -1,4 +1,4 @@
-module github.com/krakend/krakend-otel
+module github.com/satishm752/krakend-otel
 
 go 1.22.0
 
