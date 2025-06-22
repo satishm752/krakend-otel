@@ -12,7 +12,7 @@ import (
 	"go.opentelemetry.io/otel/semconv/v1.21.0"
 	v127 "go.opentelemetry.io/otel/semconv/v1.27.0"
 
-	kotelconfig "github.com/krakend/krakend-otel/config"
+	kotelconfig "github.com/satishm752/krakend-otel/config"
 )
 
 // TransportMetricsOptions contains the options to enable / disable

@@ -7,7 +7,7 @@ import (
 	krakendgin "github.com/luraproject/lura/v2/router/gin"
 	"go.opentelemetry.io/otel/attribute"
 
-	kotelconfig "github.com/krakend/krakend-otel/config"
+	kotelconfig "github.com/satishm752/krakend-otel/config"
 	kotelserver "github.com/krakend/krakend-otel/http/server"
 	otelstate "github.com/krakend/krakend-otel/state"
 )

@@ -9,7 +9,7 @@ import (
 
 	"github.com/luraproject/lura/v2/proxy"
 
-	kotelconfig "github.com/krakend/krakend-otel/config"
+	kotelconfig "github.com/satishm752/krakend-otel/config"
 	"github.com/krakend/krakend-otel/state"
 )
 
